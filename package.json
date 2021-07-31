@@ -1,0 +1,31 @@
+{
+  "name": "uterminal",
+  "version": "0.0.1",
+  "description": "A utility terminal",
+  "main": "terminal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "uterminal"
+  },
+  "keywords": [
+    "terminal"
+  ],
+  "author": "UTrosh",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-text-generator": "^1.0.5",
+    "colors": "^1.4.0",
+    "ddos-stress": "^0.1.0",
+    "geoip-lite": "^1.4.2",
+    "nodejs-base64": "^2.0.0",
+    "open-terminal": "^0.1.11",
+    "ping": "^0.4.1",
+    "prompts": "^2.4.1",
+    "questions": "0.0.6",
+    "readline": "^1.3.0",
+    "social-scanner": "^0.1.5"
+  }
+}
